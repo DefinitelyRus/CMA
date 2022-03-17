@@ -40,3 +40,10 @@ CMA/CMA/bin
 *.cache
 *.v2
 .vs/Customer Menu App/v17/.suo
+*.editorconfig
+*.json
+*.txt
+*.CopyComplete
+*.BuildWithSkipAnalyzers
+*.txt
+*.cache
