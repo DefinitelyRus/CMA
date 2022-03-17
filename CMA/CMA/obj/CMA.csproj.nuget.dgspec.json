@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\3D Objects\\GitHub Repositories\\Customer Menu App\\CMA\\CMA\\CMA.csproj": {}
+    "C:\\Users\\Rus\\3D Objects\\Ongoing Projects\\Programming\\CMA\\CMA\\CMA\\CMA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\3D Objects\\GitHub Repositories\\Customer Menu App\\CMA\\CMA\\CMA.csproj": {
+    "C:\\Users\\Rus\\3D Objects\\Ongoing Projects\\Programming\\CMA\\CMA\\CMA\\CMA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\3D Objects\\GitHub Repositories\\Customer Menu App\\CMA\\CMA\\CMA.csproj",
+        "projectUniqueName": "C:\\Users\\Rus\\3D Objects\\Ongoing Projects\\Programming\\CMA\\CMA\\CMA\\CMA.csproj",
         "projectName": "CMA",
-        "projectPath": "C:\\Users\\Admin\\3D Objects\\GitHub Repositories\\Customer Menu App\\CMA\\CMA\\CMA.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\3D Objects\\GitHub Repositories\\Customer Menu App\\CMA\\CMA\\obj\\",
+        "projectPath": "C:\\Users\\Rus\\3D Objects\\Ongoing Projects\\Programming\\CMA\\CMA\\CMA\\CMA.csproj",
+        "packagesPath": "C:\\Users\\Rus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rus\\3D Objects\\Ongoing Projects\\Programming\\CMA\\CMA\\CMA\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Rus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
