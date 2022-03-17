@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+*.v2
+.vs
+CMA/CMA/bin
+*.pdb
+*.pdb
+*.pdb
+*.cache
+*.cache
+*.v2
+.vs/Customer Menu App/v17/.suo
