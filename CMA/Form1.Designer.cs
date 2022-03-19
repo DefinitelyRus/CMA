@@ -170,42 +170,42 @@
             // 
             // menuLabel14
             // 
-            this.menuLabel14.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.menuLabel14.Location = new System.Drawing.Point(79, 340);
+            this.menuLabel14.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel14.Location = new System.Drawing.Point(3, 340);
             this.menuLabel14.Name = "menuLabel14";
-            this.menuLabel14.Size = new System.Drawing.Size(62, 25);
+            this.menuLabel14.Size = new System.Drawing.Size(219, 25);
             this.menuLabel14.TabIndex = 8;
-            this.menuLabel14.Text = "label4";
+            this.menuLabel14.Text = "Green Minded - P80";
             this.menuLabel14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel13
             // 
-            this.menuLabel13.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.menuLabel13.Location = new System.Drawing.Point(79, 251);
+            this.menuLabel13.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel13.Location = new System.Drawing.Point(3, 251);
             this.menuLabel13.Name = "menuLabel13";
-            this.menuLabel13.Size = new System.Drawing.Size(62, 25);
+            this.menuLabel13.Size = new System.Drawing.Size(219, 25);
             this.menuLabel13.TabIndex = 7;
-            this.menuLabel13.Text = "label3";
+            this.menuLabel13.Text = "Crisping Lacson - P65";
             this.menuLabel13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel12
             // 
-            this.menuLabel12.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.menuLabel12.Location = new System.Drawing.Point(3, 162);
+            this.menuLabel12.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel12.Location = new System.Drawing.Point(9, 162);
             this.menuLabel12.Name = "menuLabel12";
             this.menuLabel12.Size = new System.Drawing.Size(219, 25);
             this.menuLabel12.TabIndex = 6;
-            this.menuLabel12.Text = "label2";
+            this.menuLabel12.Text = "Soo Lit\' - P50";
             this.menuLabel12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel11
             // 
-            this.menuLabel11.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel11.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel11.Location = new System.Drawing.Point(3, 73);
             this.menuLabel11.Name = "menuLabel11";
             this.menuLabel11.Size = new System.Drawing.Size(219, 25);
             this.menuLabel11.TabIndex = 5;
-            this.menuLabel11.Text = "label1";
+            this.menuLabel11.Text = "Big Math - P95";
             this.menuLabel11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuCounter14
@@ -340,42 +340,42 @@
             // 
             // menuLabel24
             // 
-            this.menuLabel24.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel24.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel24.Location = new System.Drawing.Point(3, 340);
             this.menuLabel24.Name = "menuLabel24";
             this.menuLabel24.Size = new System.Drawing.Size(220, 25);
             this.menuLabel24.TabIndex = 4;
-            this.menuLabel24.Text = "label4";
+            this.menuLabel24.Text = "Soo Lit\' Fries - P40";
             this.menuLabel24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel23
             // 
-            this.menuLabel23.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel23.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel23.Location = new System.Drawing.Point(3, 251);
             this.menuLabel23.Name = "menuLabel23";
             this.menuLabel23.Size = new System.Drawing.Size(220, 25);
             this.menuLabel23.TabIndex = 3;
-            this.menuLabel23.Text = "label3";
+            this.menuLabel23.Text = "Soury not Sorry - P50";
             this.menuLabel23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel22
             // 
-            this.menuLabel22.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel22.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel22.Location = new System.Drawing.Point(3, 162);
             this.menuLabel22.Name = "menuLabel22";
             this.menuLabel22.Size = new System.Drawing.Size(220, 25);
             this.menuLabel22.TabIndex = 2;
-            this.menuLabel22.Text = "label2";
+            this.menuLabel22.Text = "Baby Q - P50";
             this.menuLabel22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel21
             // 
-            this.menuLabel21.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel21.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel21.Location = new System.Drawing.Point(3, 73);
             this.menuLabel21.Name = "menuLabel21";
             this.menuLabel21.Size = new System.Drawing.Size(220, 25);
             this.menuLabel21.TabIndex = 1;
-            this.menuLabel21.Text = "label1";
+            this.menuLabel21.Text = "Cheese with Benefits - P60";
             this.menuLabel21.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MenuLabel2
@@ -427,42 +427,42 @@
             // 
             // menuLabel34
             // 
-            this.menuLabel34.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel34.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel34.Location = new System.Drawing.Point(3, 340);
             this.menuLabel34.Name = "menuLabel34";
             this.menuLabel34.Size = new System.Drawing.Size(217, 25);
             this.menuLabel34.TabIndex = 8;
-            this.menuLabel34.Text = "label8";
+            this.menuLabel34.Text = "Soy Lit\' - P35";
             this.menuLabel34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel33
             // 
-            this.menuLabel33.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel33.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel33.Location = new System.Drawing.Point(3, 251);
             this.menuLabel33.Name = "menuLabel33";
             this.menuLabel33.Size = new System.Drawing.Size(217, 25);
             this.menuLabel33.TabIndex = 7;
-            this.menuLabel33.Text = "label7";
+            this.menuLabel33.Text = "Creamy BJ - P35";
             this.menuLabel33.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel32
             // 
-            this.menuLabel32.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel32.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel32.Location = new System.Drawing.Point(3, 162);
             this.menuLabel32.Name = "menuLabel32";
             this.menuLabel32.Size = new System.Drawing.Size(217, 25);
             this.menuLabel32.TabIndex = 6;
-            this.menuLabel32.Text = "label6";
+            this.menuLabel32.Text = "Juice cool ord\' - P25";
             this.menuLabel32.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel31
             // 
-            this.menuLabel31.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel31.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel31.Location = new System.Drawing.Point(3, 73);
             this.menuLabel31.Name = "menuLabel31";
             this.menuLabel31.Size = new System.Drawing.Size(217, 25);
             this.menuLabel31.TabIndex = 5;
-            this.menuLabel31.Text = "label5";
+            this.menuLabel31.Text = "Ice tea teh\' - P25";
             this.menuLabel31.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuCounter34
@@ -537,42 +537,42 @@
             // 
             // menuLabel44
             // 
-            this.menuLabel44.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel44.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel44.Location = new System.Drawing.Point(3, 340);
             this.menuLabel44.Name = "menuLabel44";
             this.menuLabel44.Size = new System.Drawing.Size(217, 25);
             this.menuLabel44.TabIndex = 8;
-            this.menuLabel44.Text = "label12";
+            this.menuLabel44.Text = "Pakyo-gurt\' - P35";
             this.menuLabel44.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel43
             // 
-            this.menuLabel43.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel43.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel43.Location = new System.Drawing.Point(3, 251);
             this.menuLabel43.Name = "menuLabel43";
             this.menuLabel43.Size = new System.Drawing.Size(217, 25);
             this.menuLabel43.TabIndex = 7;
-            this.menuLabel43.Text = "label11";
+            this.menuLabel43.Text = "Isko-kies and Cream - P40";
             this.menuLabel43.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel42
             // 
-            this.menuLabel42.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel42.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel42.Location = new System.Drawing.Point(3, 162);
             this.menuLabel42.Name = "menuLabel42";
             this.menuLabel42.Size = new System.Drawing.Size(217, 25);
             this.menuLabel42.TabIndex = 6;
-            this.menuLabel42.Text = "label10";
+            this.menuLabel42.Text = "Chocoleny Sundae - P29";
             this.menuLabel42.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuLabel41
             // 
-            this.menuLabel41.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.menuLabel41.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.menuLabel41.Location = new System.Drawing.Point(3, 73);
             this.menuLabel41.Name = "menuLabel41";
             this.menuLabel41.Size = new System.Drawing.Size(217, 25);
             this.menuLabel41.TabIndex = 5;
-            this.menuLabel41.Text = "label9";
+            this.menuLabel41.Text = "Sarahmel Sundae - P29";
             this.menuLabel41.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // menuCounter44
@@ -684,7 +684,7 @@
             this.PriceLabel.Name = "PriceLabel";
             this.PriceLabel.Size = new System.Drawing.Size(332, 64);
             this.PriceLabel.TabIndex = 4;
-            this.PriceLabel.Text = "Php0000000000";
+            this.PriceLabel.Text = "Php0";
             // 
             // MainForm
             // 
@@ -701,7 +701,6 @@
             this.Name = "MainForm";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "Form1";
-            this.Shown += new System.EventHandler(this.MainFormShown);
             this.panel1.ResumeLayout(false);
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel2.ResumeLayout(false);
