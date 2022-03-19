@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CMA-BackendLib\CMA-BackendLib\CMABackendLib.csproj" />
+    <ProjectReference Include="..\CMA-BackendLib\CMA-BackendLib\CMABackendLib.csproj" />
   </ItemGroup>
 
 </Project>
