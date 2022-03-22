@@ -17,6 +17,8 @@ This step-by-step tutorial assumes you're running from within Visual Studio IDE 
 
 3. Copy and paste `https://github.com/DefinitelyRus/CMA` to the "Repository location". This URL is where this project is located in GitHub.
 
+![image](https://user-images.githubusercontent.com/72731965/159437420-1eb501e7-f5a8-492a-949c-6cc246885381.png)
+
 4. (Optional) Change the path to somewhere you can remember.
 
 5. Click "Clone". This will download the source files and allow you to view, edit, and run the project directly from your computer.
@@ -35,7 +37,7 @@ Feel free to close the Git Changes window since we won't be using it and it take
 
 ![image](https://user-images.githubusercontent.com/72731965/159427068-76d8f618-a548-432b-89ef-474ce1fccd53.png)
 
-8. Click the triangular arrow to expand the CMA. You should see 3 items in it. More specifically, we're looking for "Form1.cs".
+8. Click the triangular arrow to expand the CMA. You should see 3 items in it. We're looking for "Form1.cs".
 
 ![image](https://user-images.githubusercontent.com/72731965/159428360-597ad284-b6e9-4ea0-85c5-88ec6f70691a.png)
 
@@ -47,7 +49,7 @@ Feel free to close the Git Changes window since we won't be using it and it take
 
 ![image](https://user-images.githubusercontent.com/72731965/159427646-164bfa7e-94f8-4d7c-a127-63001a222db0.png)
 
-11. Check the middle-top of your IDE. Make sure the active project is `CMA` **NOT `CMABackendLib`**. You can change this by clicking on the drop-down menu as shown in this image.
+11. Check the middle-top of your IDE. Make sure the active project is `CMA` **NOT** `CMABackendLib`. You can change this by clicking on the drop-down menu as shown in this image.
 
 ![image](https://user-images.githubusercontent.com/72731965/159429906-b7e5c282-a4dd-4e3b-a6b8-1cdd36d62fe4.png)
 
