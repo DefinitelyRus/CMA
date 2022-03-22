@@ -1,5 +1,9 @@
 using CMA_BackendLib;
 
+#region<----- LOOK HERE!!! Click on these to extend.
+//Never gonna give you up~ Never gonna let you down~
+#endregion
+
 namespace CMA
 {
     public partial class MainForm : Form
